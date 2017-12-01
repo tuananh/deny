@@ -1,7 +1,7 @@
 deny
 ----
 
-> Generate .gitignore file using gitingore.io API
+> Generate .gitignore file using gitignore.io API
 
 [![npm](https://img.shields.io/npm/v/deny.svg?style=flat-square)](https://npm.im/deny)
 
