@@ -1,5 +1,5 @@
 {
-  "name": "gitignore",
+  "name": "deny",
   "version": "1.0.0",
   "description": "generate .gitignore from gitignore.io API",
   "main": "index.js",
