@@ -1,6 +1,6 @@
 {
   "name": "deny",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "generate .gitignore from gitignore.io API",
   "main": "index.js",
   "scripts": {
