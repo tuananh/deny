@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tuananh/deny.git"
+  },
+  "homepage": "https://github.com/tuananh/deny",
+  "bugs": "https://github.com/tuananh/deny/issues",
   "keywords": [
     "git",
     "ignore",
