@@ -1,0 +1,19 @@
+{
+  "name": "gitignore",
+  "version": "1.0.0",
+  "description": "generate .gitignore from gitignore.io API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "ignore",
+    "gitignore"
+  ],
+  "author": "Tuan Anh Tran <me@tuananh.org> (https://tuananh.org)",
+  "license": "MIT",
+  "dependencies": {
+    "meow": "4.0.0"
+  }
+}
